@@ -1,14 +1,11 @@
-# Frontend-developer.
-
-<br>
+<div style="font-size: 22px; display: flex; justify-content: center; margin: 10px 0 30px">👋 Hello there! I'm Frontend-developer.</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif"/>
+  <img style = "object-fit: cover; width: 100vw; height: 30vh" src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif"/>
 </div>
 
-<br>
+<div style="font-size: 20px; display:flex; justify-content:center; margin: 20px 0">💻 Tech Stack:</div>
 
-## 💻 Tech Stack:
 
 <div align="center">
 
@@ -40,9 +37,7 @@
   
   </div>
 
-<br>
-
-#### ☎️ Contact:
+<div style="font-size: 20px; display:flex; justify-content:center; margin: 20px 0">☎️ Contact:</div>
 
 <div align="center">
     <a target="_blank" href="https://t.me/arthurshelbaev"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" alt="Telegram"/></a>
