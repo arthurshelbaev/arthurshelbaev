@@ -4,7 +4,7 @@
   <img style = "object-fit: cover; width: 100vw; height: 30vh" src="https://media.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif"/>
 </div>
 
-<div style="font-size: 20px; display:flex; justify-content:center; margin: 20px 0">💻 Tech Stack:</div>
+<span style="font-size: 20px; display:flex; justify-content:center; margin: 20px 0">💻 Tech Stack:</span>
 
 
 <div align="center">
