@@ -1,4 +1,4 @@
-## Frontend-developer.
+# Frontend-developer.
 
 <br>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-### 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 <br>
 
-### ☎️ Contact:
+#### ☎️ Contact:
 
 <div align="center">
     <a target="_blank" href="https://t.me/arthurshelbaev"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" alt="Telegram"/></a>
